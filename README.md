@@ -38,6 +38,7 @@ I built everything from scratch, including collision detection, bullet movement,
 git clone https://github.com/yairzzzz/shoot-the-cats.git
 cd shoot-the-cats
 ```
+
 ### 2. Install Dependancies
 
 ```bash
@@ -45,6 +46,8 @@ npm install
 ```
 
 ### 3. Start the Development Server
+
 ```bash
 npm run dev
 
+```
