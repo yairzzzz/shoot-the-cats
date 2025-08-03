@@ -137,7 +137,7 @@ onMounted(() => {
 <template>
   <div class="h-full flex">
     <!-- left container -->
-    <div class="h-full w-[25%] border-r-3">
+    <div class="h-full w-[25%]">
       <h1 class="text-center text-3xl mt-20">Score: {{ score }}</h1>
       <div class="h-full">
         <div>
@@ -150,7 +150,6 @@ onMounted(() => {
           alt="rifle"
           :style="{ transform: `rotate(${angle}rad)` }"
           class="absolute top-150 size-80"
-        />
         />
       </div>
     </div>
