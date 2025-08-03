@@ -1,6 +1,7 @@
 # 🐱 Cat Shooter Game
 
 This is a small browser-based game built using **Vue 3** and **Vite**. The goal is to shoot bouncing cat images using a rifle that rotates in real-time based on the mouse position. Each hit increases your score.
+Please note that the layout is minimalist since I focused on the logic. 
 
 ---
 
@@ -18,7 +19,7 @@ I built everything from scratch, including collision detection, bullet movement,
 - 💥 Bullet shooting and hit detection
 - 🧠 Score tracking
 - ⚡ Smooth animation loop using `requestAnimationFrame`
-- 🎯 Simple responsive layout
+
 
 ---
 
